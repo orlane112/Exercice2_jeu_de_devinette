@@ -1,6 +1,6 @@
 # Jeu de Devinettes
-
-Ce projet est un jeu où il faut deviner un nombre.
+Projet réalisé pour l'exercice 2 du chapitre 6.
+Ce projet est un jeu où il faut deviner un nombre grace aux indices en 10 essais maximum.
 L'ordinateur choisit un chiffre entre 1 et 100.
 
 ## Règles du jeu
@@ -18,5 +18,5 @@ L'ordinateur choisit un chiffre entre 1 et 100.
 2. Importer sous IntelliJ avec le JDK 21.
 3. Lancer la classe principale.
 
-Projet réalisé pour l'exercice 2 de Java.
+
 Auteur : N'guessan Miensa Orlane.
