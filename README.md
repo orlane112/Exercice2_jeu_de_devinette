@@ -18,5 +18,5 @@ L'ordinateur choisit un chiffre entre 1 et 100.
 2. Importer sous IntelliJ avec le JDK 21.
 3. Lancer la classe principale.
 
-
-Auteur : N'guessan Miensa Orlane.
+## ETUDIANTE
+ N'guessan Miensa Orlane.
