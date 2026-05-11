@@ -26,4 +26,15 @@ public class Game {
             }
         }
 
+        //on vérifie si l'utilisateur a gagné ou s'il a épuisé ses chances
+        if (aGagne) {
+            System.out.println("Félicitations ! Tu as trouvé le nombre " + nombreSecret);
+        } else {
+            System.out.println("Dommage ! Tu as perdu. Le nombre était : " + nombreSecret);
+        }
+
+        scanner.close(); // On ferme proprement le scanner
     }
+}
+
+
